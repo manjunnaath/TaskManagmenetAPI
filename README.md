@@ -9,7 +9,7 @@
               - Open the GitBash on your local folder and type the below command
                 - git clone https://github.com/manjunnaath/TaskManagmenetAPI.git
 
-              - Open the solution in Visual Studio 2022
+              - Open the solution in Visual Studio 2022. **Switch to master branch.**
 
               - Build the solution
 
@@ -30,11 +30,11 @@
       - Used .Net 9
       - Implemented Entity Framework Core with an in-memory database
       - IDE : Visual Studio 2022
-      - ASP.Net Core , Entity Framework Core and In Memory Database
+      - ASP.Net Core, Entity Framework Core and In-Memory Database
       - **Architecture : Dependency Injection + Repository Pattern + Service Layer Pattern**
 5. Unit Test: Unit testing done for One Service layer and Controller
 
-
+Kindly let me know if still facing any issues.
       
                        
 
